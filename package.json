@@ -1,0 +1,9 @@
+{
+  "name": "position-server",
+  "version": "0.0.1",
+  "main": "serve.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
